@@ -1,6 +1,6 @@
 /*#include<iostream>
 #include<string>
-
+*/
 
 using namespace std;
 
@@ -9,7 +9,7 @@ string course_no = "MIS 101";		//line 1
 double max_enrl;
 					//line 1
 
-*/
+
 struct courseTypeS
 {
 	string course_no;
@@ -54,7 +54,7 @@ CourseN::courseTypeS  course1;     // Declaring course1 of type courseTypeS stru
 CourseN::courseTypeS  *ptrcourse1; // Declaring pointer of ptrcourse1 of type courseTypeS struct of courseN namespace
 CourseN::CourseTypeC   course2;     // Declaring course2 of type courseTypeC class of courseN namespace
 
-
+/*
 int main()
 {
 		int x = 56;                           //Line 9
@@ -123,4 +123,4 @@ int main()
 		return 0;
 
 
-} 
+} */
