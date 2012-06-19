@@ -1,5 +1,5 @@
 #include<iostream>
-#include<string>
+/*#include<string>
 
 
 using namespace std;
@@ -8,7 +8,7 @@ using namespace std;
 string course_no = "MIS 101";		//line 1
 double max_enrl;					//line 1
 
-
+*/
 struct courseTypeS
 {
 	string course_no;
