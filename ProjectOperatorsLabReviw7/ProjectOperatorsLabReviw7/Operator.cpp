@@ -1,12 +1,13 @@
-#include<iostream>
-/*#include<string>
+/*#include<iostream>
+#include<string>
 
 
 using namespace std;
 
 
 string course_no = "MIS 101";		//line 1
-double max_enrl;					//line 1
+double max_enrl;
+					//line 1
 
 */
 struct courseTypeS
